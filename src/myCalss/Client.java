@@ -30,7 +30,7 @@ public class Client {
                 string = buffer;
             }
 
-            System.out.println("Сервер прислал ответ:" +string.replace("a",""));
+            System.out.println("Сервер прислал ответ:" +string.replace("a","п"));
 
         }
     }
